@@ -4,16 +4,6 @@ This project is a simple login system implemented using Object-Oriented Programm
 
 ## Project Structure
 
-Certainly! Here's a README.md file for your PHP OOP login system project:
-
-markdown
-نسخ الكود
-# PHP OOP Login System
-
-This project is a simple login system implemented using Object-Oriented Programming (OOP) concepts in PHP. It includes functionalities for user registration and login, using a MySQL database for storing user information securely.
-
-## Project Structure
-
 login-system-oop/
 ├── classes/
 │ ├── DatabaseHandler.php
